@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538142885220",
+    "project_id": "khmtask",
+    "storage_bucket": "khmtask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538142885220:android:b842ee06ae2f4ff1dc6671",
+        "android_client_info": {
+          "package_name": "com.example.khmtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpPKtOuk68SYYwCCCVxZDg5gRIOEZDwug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
